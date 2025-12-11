@@ -68,13 +68,8 @@ http://localhost:3000
 * (Optional) You can add restart/reset functionality
 
 
-## 📸 Screenshots (Add later)
+## 📸 Screenshot (Game Win)
 
-```
-<img width="952" height="902" alt="image" src="https://github.com/user-attachments/assets/acdaf1fd-60c5-4a92-a339-142f481ff0a9" />
-
-<img width="945" height="902" alt="image" src="https://github.com/user-attachments/assets/a9bd621e-0e0f-4622-b736-41a92ea61165" />
-
-```
+<img width="955" height="905" alt="tic-tac-toe" src="https://github.com/user-attachments/assets/a30a4f90-54c7-4e23-9471-4daf783d0bb6" />
 
 
